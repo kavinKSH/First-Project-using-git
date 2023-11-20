@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("The ViewController completed")
         print("Register VC Completed")
+        print("New Login Vc Completed")
     }
 }
 
